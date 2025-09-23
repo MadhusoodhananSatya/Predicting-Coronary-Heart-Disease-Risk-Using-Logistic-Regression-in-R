@@ -57,7 +57,7 @@ You can install these packages using the `install.packages()` command in R. The 
 
 ### 📊 Project Workflow
 
-The **`week 8 part 2.R`** script follows a clear, step-by-step workflow:
+The **`Heart_Disease_Risk Analysis.R`** script follows a clear, step-by-step workflow:
 
 1.  **Setup and Data Loading**: The necessary libraries are loaded, and the `CHD.csv` dataset is read into a data frame.
 
